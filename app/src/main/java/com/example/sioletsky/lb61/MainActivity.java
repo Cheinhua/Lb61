@@ -34,7 +34,7 @@ public class MainActivity extends Activity {
 
 
 
-//GitHub function nothing
+//GitHub function nothing testing
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
