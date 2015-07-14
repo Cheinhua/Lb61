@@ -1,6 +1,6 @@
 package com.example.sioletsky.lb61;
 
-//test
+//test funtion
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.ContentValues;
@@ -34,7 +34,7 @@ public class MainActivity extends Activity {
 
 
 
-//GitHub function test
+//GitHub function nothing
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
